@@ -94,7 +94,8 @@ ORDER BY
 - **Tableau** is in high demand, in 6 of the highest-paying jobs.
 
 
-![Screenshot 2025-02-27 045619]
+![Screenshot 2025-02-27 045619](https://github.com/user-attachments/assets/6348eec4-dd9b-4e4e-a4ca-859ff78bf4e0)
+
 
 
 
