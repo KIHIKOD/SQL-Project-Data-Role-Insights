@@ -223,7 +223,7 @@ LIMIT 25;
 - **Business Intelligence and Visualization Tools:** Tools such as Tableau (demand count: 230) and Looker (demand count: 49) have become indispensable for data professionals. With average salaries hovering around $99,288 and $103,795, respectively, these skills highlight the importance of visual storytelling in translating complex datasets into actionable insights.
 - **Database Technologies:** Expertise in database management remains crucial, with demand for traditional relational databases like Oracle and SQL Server, as well as NoSQL solutions. Salaries for these skills range from $97,786 to $104,534, reflecting their fundamental role in data storage, retrieval, and management.
 
-# What I Gained From This Experience
+## What I Gained From This Experience
 
 This deep dive into data analytics sharpened my SQL capabilities in several ways:
 
@@ -231,7 +231,7 @@ This deep dive into data analytics sharpened my SQL capabilities in several ways
 - **Data Aggregation:** Developed a solid understanding of GROUP BY operations, making aggregate functions like COUNT() and AVG() second nature.
 - **Analytical Thinking:** Strengthened my problem-solving skills by transforming raw data into meaningful insights through well-structured SQL queries.
 
-# Key Takeaways
+## Key Takeaways
 
 ### Insights
 From the analysis, several general insights emerged:
