@@ -1,5 +1,5 @@
 # Introduction
-Exploring the data job market! This project focuses on data analyst roles, examining 💰 the highest-paying positions, 🔥 in-demand skills, and 📈 the intersection of skill demand and salary potential.
+Exploring the data job market. This project focuses on data analyst roles, examining 💰 the highest-paying positions, 🔥 in-demand skills, and 📈 the intersection of skill demand and salary potential.
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
@@ -11,7 +11,7 @@ Motivated by the need to navigate the data analytics job market efficiently, thi
 2. What skills do top-paying jobs require?
 3. Which skills are most in demand for data analysts?
 4. Which skills correlate with higher salaries?
-5.What are the most strategic skills to learn?
+5. What are the most strategic skills to learn?
 
 # Tools Utilized
 To analyze the data analyst job market effectively, I used several key tools:
@@ -93,6 +93,7 @@ ORDER BY
 
 
 ![Uploading 2_top_paying_roles_skills.png…]()
+
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. Most In-Demand Skills for Data Analysts
