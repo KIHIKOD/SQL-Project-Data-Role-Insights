@@ -52,7 +52,7 @@ LIMIT 10;
 - **Diverse Employers:** Companies such as SmartAsset, Meta, and AT&T offer high salaries, spanning various industries.
 - **Job Title Diversity:** Titles range from Data Analyst to Director of Analytics, reflecting the different specializations in the field.
 
-![1_top_paying_roles](https://github.com/user-attachments/assets/c989587b-8689-42c8-a022-0a55d63556e5)
+![image](https://github.com/user-attachments/assets/6cb503ad-7fe5-4971-89fa-d814449fa8b2)
 
 
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
@@ -94,7 +94,7 @@ ORDER BY
 - **Tableau** is in high demand, in 6 of the highest-paying jobs.
 
 
-![Screenshot 2025-02-27 045619](https://github.com/user-attachments/assets/93cce196-dcc9-4950-a581-ca12638cc797)
+![Screenshot 2025-02-27 045619]
 
 
 
