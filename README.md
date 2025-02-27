@@ -1,7 +1,6 @@
 # Introduction
 Exploring the data job market. This project focuses on data analyst roles, examining 💰 the highest-paying positions, 🔥 in-demand skills, and 📈 the intersection of skill demand and salary potential.
 
-
 # Background
 Motivated by the need to navigate the data analytics job market efficiently, this project highlights the most lucrative and in-demand skills, making it easier for others to identify optimal job opportunities.
 
@@ -54,7 +53,6 @@ LIMIT 10;
 
 ![image](https://github.com/user-attachments/assets/6cb503ad-7fe5-4971-89fa-d814449fa8b2)
 
-
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -93,11 +91,7 @@ ORDER BY
 - **Python** follows closely, required in 7 of the top roles.
 - **Tableau** is in high demand, in 6 of the highest-paying jobs.
 
-
 ![Screenshot 2025-02-27 045619](https://github.com/user-attachments/assets/6348eec4-dd9b-4e4e-a4ca-859ff78bf4e0)
-
-
-
 
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
