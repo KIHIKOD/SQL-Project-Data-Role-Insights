@@ -94,7 +94,8 @@ ORDER BY
 - **Tableau** is in high demand, in 6 of the highest-paying jobs.
 
 
-![2_top_paying_roles_skills](https://github.com/user-attachments/assets/b7df31f3-731a-485e-bd6f-72d63a68dbd0)
+![Screenshot 2025-02-27 045619](https://github.com/user-attachments/assets/93cce196-dcc9-4950-a581-ca12638cc797)
+
 
 
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
